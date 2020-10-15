@@ -40,3 +40,10 @@ $(document).ready(function () {
 
   $('div.setup-panel div a.btn-primary').trigger('click');
 });
+
+
+var btnn=document.getElementById('checkerr');
+
+btnn.addEventListener('click',function(){
+ alert("Transaction Sucessfull");
+});
