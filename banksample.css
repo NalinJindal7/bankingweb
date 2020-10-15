@@ -1,13 +1,17 @@
 body {
-    margin-top:40px;
+  
     background: #7FDBFF;
-    align-items: right;
-    padding-left: 300px;
-    font-size: 20px;
-    font-weight: 300;
+   
 }
 .stepwizard-step p {
     margin-top: 10px;
+}
+
+.container{
+   
+    font-size: 20px;
+    font-weight: 300;
+ 
 }
 .stepwizard-row {
     display: table-row;
